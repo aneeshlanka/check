@@ -17,7 +17,7 @@ gunicorn==20.1.0
 distlib==0.3.6
 filelock==3.8.0
 platformdirs==2.5.2
-py==3.11.2
+py==1.11.0
 pyparsing==3.0.9
 
 tomli==2.0.1
